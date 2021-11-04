@@ -121,7 +121,7 @@ public class FXGuiMaker extends FXComponentTree{
                         System.out.println("Cursor is at root.");
                     }
                     break;
-                case 'E': //Fix
+                case 'E': 
                     try {
                         System.out.println("Please enter new text: ");
                         input.nextLine();
